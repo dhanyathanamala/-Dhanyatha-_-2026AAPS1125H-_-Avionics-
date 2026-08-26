@@ -32,14 +32,13 @@ Final Animated Graph
 The cleaned and smoothed data was displayed progressively, with one new point added every second.
 
 
+
+
 Task-2 Keeping Watch Over Odysseus
 
 Building the Circuit
 
 I built the required system in Tinkercad using an Arduino Uno, LDR, ultrasonic sensor, LCD, push button, LED, and buzzer. The sensors were used as inputs, while the LCD, LED, and buzzer provided the outputs. I tested the components individually before combining them.
-
-
-
 
 Programming Approach
 
