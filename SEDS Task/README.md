@@ -17,17 +17,17 @@ Original Sensor Data
 
 Raw sensor data before cleaning.
 
-![Original sensor data](Task1/screenshots/original_graph.png)
+![Original sensor data](Task%201/screenshots/original_graph.png)
 
 Cleaned and Smoothed Data
 
 Corrupted readings were corrected using interpolation and a 5-point moving average was used to reduce noise.
 
-![Cleaned and smoothed data](Task1/screenshots/cleaned_graph.png)
+![Cleaned and smoothed data](Task%201/screenshots/cleaned_graph.png)
 
 Final Animated Graph
 
-![Animated graph](Task1/screenshots/animated_final_graph.png)
+![Animated graph](Task%201/screenshots/animated_final_graph.png)
 
 The cleaned and smoothed data was displayed progressively, with one new point added every second.
 
