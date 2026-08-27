@@ -27,7 +27,7 @@ Corrupted readings were corrected using interpolation and a 5-point moving avera
 
 Final Animated Graph
 
-![Animated graph](Task1/screenshots/animated_graph.png)
+![Animated graph](Task1/screenshots/animated_final_graph.png)
 
 The cleaned and smoothed data was displayed progressively, with one new point added every second.
 
